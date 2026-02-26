@@ -1,7 +1,7 @@
 <!-- ================= Animated Typing Intro ================= -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=F72585&center=true&vCenter=true&width=850&lines=Hi+👋,+I'm+Venkata+Varshith+Reddy;Machine+Learning+%26+Data+Science+Enthusiast;LLM+Explorer+%7C+RAG+Builder;Building+Practical+AI+Systems+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=F72585&center=true&vCenter=true&width=850&lines=Hi+👋,+I'm+Venkata+Varshith+Reddy;Machine+Learning+%26+Data+Science+Enthusiast;LLM+Explorer+%7C+Building+Practical+AI+Systems+🚀" />
 </p>
 
 ---
