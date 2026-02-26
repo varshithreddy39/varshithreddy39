@@ -77,3 +77,14 @@ Currently building real-world ML systems instead of just training models on toy 
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </div>
+
+---
+
+# 🌐 Connect With Me
+
+🔗 **LinkedIn:** https://www.linkedin.com/in/venkatavarshith  
+📫 **Email:** varshithr452@gmail.com  
+
+---
+
+⭐ *“Turning data into intelligence. Turning intelligence into real-world systems.”*
